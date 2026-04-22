@@ -5,7 +5,7 @@ The project focuses on clean UI design, smooth user experience, and essential fr
 
 ---
 ## Live Preview
-
+https://restaurant-website-hazel-zeta.vercel.app/
 
 ---
 
